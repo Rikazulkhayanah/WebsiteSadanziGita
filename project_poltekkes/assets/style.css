@@ -1,0 +1,39 @@
+/* body{
+    background-color: #4aa5d3;
+} */
+
+
+  h1{
+    color:  rgba(23, 115, 168, 1);
+  }
+
+  .reg{
+    color:  rgba(23, 115, 168, 1);
+    background-color: rgb(242, 245, 247);
+  
+    /* font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif */
+  }
+
+.buttonreg{
+    color:rgb(242, 245, 247);
+    background-color: rgba(23, 115, 168, 1);
+}
+
+.image{
+  color: rgba(23, 115, 168, 1);
+}
+
+img{
+  border-radius: 50%;
+}
+
+#card{
+  /* background-color: #edeeef; */
+  font-weight: 900;
+}
+
+.buttonlog{
+  color:rgb(242, 245, 247);
+  background-color: rgba(23, 115, 168, 1);
+}
+
